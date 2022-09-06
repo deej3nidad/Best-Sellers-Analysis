@@ -1,2 +1,2 @@
 # Best-Sellers-Analysis
-Reviews of books from 2010 to 2018
+Dataset on bestselling books from 2010 to 2018. Data has been categorized into fiction and non-fiction.
